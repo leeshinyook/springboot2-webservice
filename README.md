@@ -39,31 +39,31 @@
 
 - AWS EC2
 
-  ![스크린샷 2020-01-23 오후 7.36.20](/Users/leeshinyook/Desktop/스크린샷 2020-01-23 오후 7.36.20.png)
+  ![스크린샷 2020-01-23 오후 7 36 20](https://user-images.githubusercontent.com/55838461/72981356-ef6c9380-3e1f-11ea-9901-ae39a4bfb804.png)
 
 
 
 - AWS codedeploy
 
-  ![스크린샷 2020-01-23 오후 7.36.43](/Users/leeshinyook/Desktop/스크린샷 2020-01-23 오후 7.36.43.png)
+  ![스크린샷 2020-01-23 오후 7 36 43](https://user-images.githubusercontent.com/55838461/72981409-07dcae00-3e20-11ea-9fcb-d3b74398c154.png)
 
 
 
 - AWS S3
 
-  ![스크린샷 2020-01-23 오후 7.36.59](/Users/leeshinyook/Desktop/스크린샷 2020-01-23 오후 7.36.59.png)
+  ![스크린샷 2020-01-23 오후 7 36 59](https://user-images.githubusercontent.com/55838461/72981411-08754480-3e20-11ea-8722-6e716ea45c3d.png)
 
 
 
 - AWS RDS
 
-  ![스크린샷 2020-01-23 오후 7.37.30](/Users/leeshinyook/Desktop/스크린샷 2020-01-23 오후 7.37.30.png)
+  ![스크린샷 2020-01-23 오후 7 37 30](https://user-images.githubusercontent.com/55838461/72981418-0b703500-3e20-11ea-8b94-b55b7b210437.png)
 
 
 
 - Travis CI
 
-  ![스크린샷 2020-01-23 오후 7.46.55](/Users/leeshinyook/Desktop/스크린샷 2020-01-23 오후 7.46.55.png)
+  ![스크린샷 2020-01-23 오후 7 46 55](https://user-images.githubusercontent.com/55838461/72981448-1cb94180-3e20-11ea-8f76-457feb3208d4.png)
 
 
 
